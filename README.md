@@ -1,5 +1,5 @@
 # bookshelf-api-backend
-A simple Bookshelf application 
+A simple Bookshelf CRUD application 
 
 ### Functionality
 This application will allow creating/fetching/updating/removing/ Books items.  
